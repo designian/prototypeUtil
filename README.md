@@ -1,0 +1,4 @@
+prototypeUtil
+=============
+
+prototype utility.
